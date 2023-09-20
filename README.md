@@ -2,8 +2,8 @@
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Macias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<ENTER YOUR LINKEDIN URL>)](https://www.linkedin.com/in/daniel-macias-a31841b9/)
-[![Medium Badge](https://img.shields.io/badge/Daniel%20Macias-12100E?style=flat-square&logo=medium&logoColor=white&link=<ENTER YOUR MEDIUM URL>)](https://medium.com/@maciasrcdaniel)
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Macias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-macias-a31841b9/)](https://www.linkedin.com/in/daniel-macias-a31841b9/)
+[![Medium Badge](https://img.shields.io/badge/Daniel%20Macias-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@maciasrcdaniel)](https://medium.com/@maciasrcdaniel)
 [![Gmail Badge](https://img.shields.io/badge/-maciasrcdaniel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maciasrcdaniel@gmail.com)](mailto:maciasrcdaniel@gmail.com)
 
 ## ⚡ Technologies
